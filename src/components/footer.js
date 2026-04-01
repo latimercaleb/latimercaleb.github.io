@@ -25,9 +25,7 @@ export default () => (
   <div className={logoStyles.footerWrapper}>
         <ul className={logoStyles.logoWrapper}>
           <li><a href={externalRoutes.linkedin} style={{textDecoration:'none'}}><Button><img src={linkedimg} alt="LinkedIn Icon" className={logoStyles.logoImage}/>LinkedIn</Button></a></li>
-          <li><a href={externalRoutes.handshake} style={{textDecoration:'none'}}><Button><img src={handshakeimg} alt="Handshake Icon" className={logoStyles.logoImage}/>Handshake</Button></a></li>
           <li><a href={externalRoutes.github} style={{textDecoration:'none'}}><Button><img src={githubimg} alt="Github Icon" className={logoStyles.logoImage}/>Github</Button></a></li>
-          <li><a href={externalRoutes.codepen} style={{textDecoration:'none'}}><Button><img src={codepenlogo} alt="Codepen Icon" className={logoStyles.logoImage}/>Codepen</Button></a></li>
           <li><a href={externalRoutes.hackerrank} style={{textDecoration:'none'}}><Button><img src={hranklogo} alt="Hackerrank Icon" className={logoStyles.logoImage}/>Hackerrank</Button></a></li>
           <li><a href={externalRoutes.udemy} style={{textDecoration:'none'}}><Button><img src={udemylogo} alt="Udemy Icon" className={logoStyles.logoImage}/> Udemy</Button></a></li>
         </ul>
