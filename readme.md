@@ -10,4 +10,8 @@ This repo holds the source code for my Portfolio project and a slight monologue 
 
 **V4** bootstrap 3 w/jQuery
 
-**V5** react w/ material-ui
+**V5** react w/ material-ui + gatsby (In progress)
+- Might swap gatsby for astro depending
+- Not sure about material ui for this, consider bulma 
+- Need jest
+
