@@ -23,9 +23,11 @@ Style
   -
 
 4/4/26 update
-- Update react
-- Update gatsby
+- Update react (Done)
+- Update gatsby (Done)
+- Look into react-helmet... do i still need this?
 - Install react router
+
 - Install gh-pages
 - Check out rbx & bulma for react
 - https://www.gatsbyjs.com/docs/how-to/custom-configuration/typescript/ install ts with gatsby
