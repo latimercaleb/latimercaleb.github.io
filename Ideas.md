@@ -1,6 +1,6 @@
 Deploy new website as an SSG with a static site generator.
 Stack will be JAM maybe with a twitter API or linkedin api for the feed shown
-Images and logo will be made seperately with canva or something else
+Images and logo will be made separately with canva or something else
 Check keep for other notes
 
 Gatsby
