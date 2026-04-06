@@ -6,6 +6,7 @@ import Footer from "../footer"
 // import PropTypes from 'prop-types';
 // import { withStyles } from '@material-ui/core/styles';
 // import Paper from '@material-ui/core/Paper';
+// TODO: Adjust this to no longer use helmet and leverage OG props
 import Grid from '@material-ui/core/Grid';
 import sidebarStyle from './sidebar.module.css';
 
