@@ -1,6 +1,5 @@
-# Portfolio project
-
-This repo holds the source code for my Portfolio project and a slight monologue of some of the different tools I've used or approaches that I have tried with it
+# Portfolio Project
+This repo holds the source code for my Portfolio project hosted here on Github
 
 **V1** standalone html/css
 
@@ -10,8 +9,4 @@ This repo holds the source code for my Portfolio project and a slight monologue 
 
 **V4** bootstrap 3 w/jQuery
 
-**V5** react w/ material-ui + gatsby (In progress)
-- Might swap gatsby for astro depending
-- Not sure about material ui for this, consider bulma 
-- Need jest
-
+**V5** react w/ bulma + gatsby (In progress)
