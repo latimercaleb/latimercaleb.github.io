@@ -36,7 +36,7 @@ Ok all that config stuff is annoying just blow everything away and re-init from 
 
 Breaking for shower & dental hygeine (DONE)
 - Finish gatsby cursory tutorial (DONE)
-- Start outlining nav-layout wrapper
+- Start outlining nav-layout wrapper 
 - Port code from inner project to outer-project and do commits
 - Figure out plugin management and config
 - Give thought to meta data and wrappers
